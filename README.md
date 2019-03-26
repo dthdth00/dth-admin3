@@ -1,6 +1,6 @@
 # dth-admin3
 
-> A Vue.js project
+> dth飞防作业后台管理系统(A Vue.js project)
 
 ## Build Setup
 
